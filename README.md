@@ -9,4 +9,15 @@ This dataset has a list of companies around the world that have been valued at $
 * What is the last valuation of each startup?
 * When did each startup join Crunchbase?
 
-###
+### Research
+* Identifying the most innovative and successful startups in the world
+* Comparing correlation matrices to figure out key differences such as industries, locations, etc.
+
+### Acknowledgements
+This dataset was scraped from Crunchbase, a website that provides information on startups and tech companies.
+
+### Conclusions
+* Majority startups are located in the United States
+* Startups belong to software and Fintech
+* Biggest investors include Andreessen Horowitz and Tiger Global Management.
+

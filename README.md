@@ -14,7 +14,7 @@ This dataset has a list of companies around the world that have been valued at $
 * Comparing correlation matrices to figure out key differences such as industries, locations, etc.
 
 ### Acknowledgements
-This dataset was scraped from Crunchbase, a website that provides information on startups and tech companies.
+This dataset was scraped from [Crunchbase](https://www.crunchbase.com/), a website that provides information on startups and tech companies.
 
 ### Conclusions
 * Majority startups are located in the United States
